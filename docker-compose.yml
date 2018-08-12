@@ -6,10 +6,10 @@ services:
     restart: always
     environment:
       SLACK_COC: "${SLACK_COC}"
-      PORT: "${PORT}"
+      PORT: "3069"
       SLACK_SUBDOMAIN: "${SLACK_SUBDOMAIN}"
       SLACK_API_TOKEN: "${SLACK_API_TOKEN}"
       GOOGLE_CAPTCHA_SECRET: "${GOOGLE_CAPTCHA_SECRET}"
       GOOGLE_CAPTCHA_SITEKEY: "${GOOGLE_CAPTCHA_SITEKEY}"
     ports:
-      - 3000:3000
+      - 3069:3069

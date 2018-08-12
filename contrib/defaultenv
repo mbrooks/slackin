@@ -1,5 +1,4 @@
 SLACK_COC=https://yourdomain.site/url/to/code-of-conduct
-PORT=3000
 SLACK_SUBDOMAIN=slackin
 SLACK_API_TOKEN=xxxx-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 GOOGLE_CAPTCHA_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
