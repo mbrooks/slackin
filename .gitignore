@@ -1,5 +1,9 @@
 # dependencies
-node_modules
+dist/
+node_modules/
 
 # logs
 npm-debug.log
+
+# env variables
+.env
